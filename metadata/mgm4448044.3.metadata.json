@@ -1,0 +1,21 @@
+{
+    "external-ids_gold_id": "Gm00154", 
+    "external-ids_project_id": "32811", 
+    "external-ids_pubmed_id": "20203603", 
+    "human-gut_body_product": "stool", 
+    "human-gut_samp_store_temp": "-80", 
+    "library-construction---metagenome--_mg_454_number_regions": "35.4-97.6 million reads", 
+    "library-construction---metagenome--_mg_library_size": "44-75", 
+    "project-description_metagenome_name": "GI metagenome sample", 
+    "sample-isolation-and-treatment_biomaterial_treatment": "DNA extraction", 
+    "sample-isolation-and-treatment_sample_isolation_description": "Patients and healthy controls were asked to provide a frozen stool sample. Fresh stool samples were obtained at home, and samples were immediately frozen by storing them in their home freezer. Frozen samples were delivered to the Hospital using insulating polystyrene foam containers, and then they were stored at -80&#8201;\u00b0C until analysis. A frozen aliquot (200&#8201;mg) of each faecal sample was suspended in 250&#8201;&#956;l of guanidine thiocyanate, 0.1&#8201;M Tris (pH 7.5) and 40&#8201;&#956;l of 10% N-lauroyl sarcosine. Then, DNA extraction was conducted as previously described22. The DNA concentration and its molecular size were estimated by nanodrop (Thermo Scientific) and agarose gel electrophoresis.", 
+    "sample-isolation-and-treatment_sample_isolation_reference": "20203603", 
+    "sample-isolation-and-treatment_sample_size": "200 mg", 
+    "sample-origin_continent": "europe", 
+    "sample-origin_geodetic_system": "wgs_84", 
+    "sample-origin_sampling_timezone": "UTC", 
+    "sequences_sequences_assembled": "High-quality short reads of each DNA sample were assembled by the SOAPdenovo assembler", 
+    "sequences_sequences_filtered": "The 17-mers with depth less than 5 were screened in front of assembly,", 
+    "sequences_sequences_predicted_genes": "Metagenome data has predicted genes", 
+    "sequencing_sequencing_method": "illumina"
+}

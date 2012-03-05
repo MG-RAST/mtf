@@ -1,0 +1,11 @@
+{
+    "biome-information_envo_lite": "plant-associated habitat", 
+    "project-description_metagenome_name": "B3BE _Bacteria", 
+    "sample-isolation-and-treatment_sample_isolation_description": "Two P. deltoides stands were sampled, representing both upland and bottomland ecotypes and soil conditions that commonly occur in this region. From these samples, a number of diverse fungal and bacterial associates have been isolated from Populus rhizosphere and surface sterilized root tissues using broadly compatible media and direct plating methods. These isolates are being screened for phylogenetic identity with bacterial and fungal rDNA primers, and for traits of interest involved in plant microbe interactions using molecular and biochemical assays, including nitrogen fixation (nifH), indole-3-acetic acid synthesis pathways (iaa), salicylate degradation genes (nahJ and nahW), and fungal oxalate production (oahA).  Microbes isolated from the Populus rhizosphere and endosphere are being screened for the production of small signaling molecules by GC- MS metabolomics of culture supernatants from isolates grown in the presence and absence of plant-derived exudates. Isolates are also being screened for known and novel homoserine lactone-derived quorum sensing compounds.", 
+    "sample-origin_continent": "na", 
+    "sample-origin_country": "US", 
+    "sample-origin_geodetic_system": "wgs_84", 
+    "sample-origin_location": "Caney Fork River, TN", 
+    "sample-origin_sampling_date": "2009/10/01", 
+    "sample-origin_sampling_timezone": "UTC"
+}

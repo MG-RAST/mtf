@@ -1,0 +1,19 @@
+{
+    "administrative-contact_PI_organization_country": "US", 
+    "biome-information_envo_lite": "waste water", 
+    "project-description_metagenome_name": "Influent virome", 
+    "project-description_project_name": "WWTP virome", 
+    "sample-isolation-and-treatment_biomaterial_treatment": "total DNA extraction - enzymes", 
+    "sample-isolation-and-treatment_sampling_strategy": "Physical enrichment of viruses", 
+    "sample-origin_altitude": "1 ; Meter", 
+    "sample-origin_continent": "asia", 
+    "sample-origin_country": "SG", 
+    "sample-origin_depth": "0 ; Meter", 
+    "sample-origin_geodetic_system": "wgs_84", 
+    "sample-origin_latitude": "1.332", 
+    "sample-origin_longitude": "103.756", 
+    "sample-origin_sampling_date": "2008/09/01", 
+    "sample-origin_sampling_time": "103000", 
+    "sample-origin_sampling_timezone": "UTC", 
+    "sample-origin_temperature": "30 ; Celsius"
+}

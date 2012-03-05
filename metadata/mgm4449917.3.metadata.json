@@ -1,0 +1,23 @@
+{
+    "administrative-contact_PI_email": "vladimir.lazarevic@genomic.ch", 
+    "administrative-contact_PI_firstname": "Vladimir", 
+    "administrative-contact_PI_lastname": "Lazarevic", 
+    "administrative-contact_PI_organization_country": "CH", 
+    "biome-information_envo_lite": "animal-associated habitat", 
+    "external-ids_pubmed_id": "21933985", 
+    "project-description_project_description": "10 ob/ob control-diet mice and 10 ob/ob prebiotic-enriched diet mice", 
+    "sample-isolation-and-treatment_sample_isolation_reference": "PMID 21933985", 
+    "sample-origin_altitude": "NA ; Meter", 
+    "sample-origin_country": "BE", 
+    "sample-origin_depth": "NA ; Meter", 
+    "sample-origin_latitude": "50.53", 
+    "sample-origin_location": "Louvain", 
+    "sample-origin_longitude": "4.42", 
+    "sample-origin_sampling_date": "2009/05/05", 
+    "sample-origin_sampling_time": "100000", 
+    "sample-origin_sampling_timezone": "UTC+1", 
+    "sample-origin_temperature": "NA ; Celsius", 
+    "sequencing_mg_sequencing_chemistry": "454 pyrosequencing ", 
+    "sequencing_sequencing_center": "454 Life Sciences, Branford, CT", 
+    "sequencing_sequencing_method": "454"
+}

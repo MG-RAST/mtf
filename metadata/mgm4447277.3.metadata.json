@@ -1,0 +1,12 @@
+{
+    "biome-information_envo_lite": "soil", 
+    "sample-origin_altitude": "3464 ; Meter", 
+    "sample-origin_country": "CO", 
+    "sample-origin_depth": "0.2 ; Meter", 
+    "sample-origin_latitude": "04", 
+    "sample-origin_longitude": "-72", 
+    "sample-origin_sampling_date": "2008/05/16", 
+    "sample-origin_sampling_time": "103000", 
+    "sample-origin_sampling_timezone": "UTC", 
+    "sample-origin_temperature": "9.8 ; Celsius"
+}

@@ -1,0 +1,23 @@
+{
+    "ANONYMIZED_NAME": "KR21", 
+    "COMMON_NAME": "soil", 
+    "DESCRIPTION": "soil", 
+    "TAXON_ID": "410658", 
+    "TITLE": "KR21", 
+    "altitude": "0.0", 
+    "assigned_from_geo": "n", 
+    "country": "GAZ:United States of America", 
+    "depth": "5", 
+    "elevation": "127.7879868", 
+    "env_biome": "ENVO:Temperate coniferous forest biome", 
+    "env_feature": "ENVO:soil", 
+    "env_matter": "ENVO:soil", 
+    "latitude": "34.6281898", 
+    "litter_voc_type": "pine", 
+    "longitude": "-81.6734357", 
+    "public": "n", 
+    "samp_size": "5", 
+    "sample_id": "qiime:146441", 
+    "sample_name": "KR21", 
+    "study_id": "qiime:214"
+}

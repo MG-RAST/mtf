@@ -1,0 +1,22 @@
+{
+    "ANONYMIZED_NAME": "sample14", 
+    "COMMON_NAME": "CT2", 
+    "TITLE": "Soil bacterial diversity in the Arctic is not fundamentally different from that found in other biomes", 
+    "altitude": "0.0", 
+    "assigned_from_geo": "n", 
+    "collection_date": "7/15/2008", 
+    "country": "GAZ:Canada", 
+    "depth": "0-5", 
+    "elevation": "100.0", 
+    "env_biome": "ENVO:Tundra communities and barren Arctic deserts", 
+    "env_feature": "ENVO:soil", 
+    "env_matter": "ENVO:soil", 
+    "latitude": "62.65", 
+    "longitude": "-69.56667", 
+    "ph": "5.03", 
+    "public": "y", 
+    "samp_size": "20", 
+    "sample_id": "qiime:144644", 
+    "sample_name": "CT2", 
+    "study_id": "qiime:104"
+}

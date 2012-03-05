@@ -1,0 +1,19 @@
+{
+    "biome-information_envo_lite": "marine habitat", 
+    "library-construction---metagenome--_mg_454_gasket_type": "2", 
+    "library-construction---metagenome--_mg_454_number_regions": "1", 
+    "sample-isolation-and-treatment_sample_isolation_description": "Water collected from 10m depth via Niskin filtered through 0.2 micron pore size polyethersulfone (SUPOR 200) filter and frozen in sucrose lysis buffer. Extraction proceeded using SDS (1% final) and Proteinase K followed by Silica Column Purification (Qiagen DNEasy) and direct sequencing of product.", 
+    "sample-isolation-and-treatment_sample_size": "30L", 
+    "sample-origin_continent": "na", 
+    "sample-origin_country": "BM", 
+    "sample-origin_depth": "10 ; Meter", 
+    "sample-origin_location": "Hydrostation S", 
+    "sample-origin_sampling_timezone": "UTC", 
+    "sequencing_sequencing_method": "454", 
+    "technical-contact_email": "nelsoncraige@gmail.com", 
+    "technical-contact_firstname": "Craig", 
+    "technical-contact_lastname": "Nelson", 
+    "technical-contact_organization_address": "Marine Science Institute ; 93106 ; University of California Santa Barbara ; CA", 
+    "technical-contact_organization_country": "US", 
+    "technical-contact_organization_url": "msi.ucsb.edu"
+}

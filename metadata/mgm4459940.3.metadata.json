@@ -1,0 +1,20 @@
+{
+    "administrative-contact_PI_firstname": "Jennifer", 
+    "administrative-contact_PI_lastname": "Biddle", 
+    "administrative-contact_PI_organization": "University of Delaware, Delaware Biotechnology Institute", 
+    "biome-information_envo_lite": "sediment", 
+    "external-ids_gold_id": "Gm00321", 
+    "external-ids_pubmed_id": "18650394", 
+    "sample-origin_altitude": "-152 ; Meter", 
+    "sample-origin_country": "PE", 
+    "sample-origin_depth": "32 ; Meter", 
+    "sample-origin_latitude": "-10.9762017", 
+    "sample-origin_location": "Ocean Drilling Program leg 201, site 1229", 
+    "sample-origin_longitude": "-77.95765", 
+    "sample-origin_sampling_date": "2002/03/06", 
+    "sample-origin_sampling_time": "133000", 
+    "sample-origin_sampling_timezone": "UTC-6", 
+    "sample-origin_temperature": "15 ; Celsius", 
+    "sequencing_mg_sequencing_make": "454 GS-20", 
+    "sequencing_sequencing_method": "454"
+}

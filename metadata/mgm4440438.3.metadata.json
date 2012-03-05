@@ -1,0 +1,22 @@
+{
+    "biome-information_envo_lite": "saltern", 
+    "external-ids_gold_id": "Gm00134", 
+    "external-ids_project_id": "28353, 28725", 
+    "external-ids_pubmed_id": "18337718, 20147985", 
+    "project-description_metagenome_name": "High Salinity Microbial Metagenome D San Diego Bay Saltern 07/01/04", 
+    "sample-isolation-and-treatment_sample_isolation_description": "Water samples from the solar saltern of South Bay Salt Works (Chula Vista, CA, USA) were collected from three ponds with different salinities: low (6-8%), medium (12-14%), and high (27-30%). Salinity was measured with a hand refractometer. The time between samplings ranged from 1 day to ~1.33 years (Table 1). Viral and microbial fractions were isolated from each water sample by passage through a 0.2-&#956;m tangential flow filter (TFF, Millipore, Westborough, MA, USA). The filtrate and the retentate were collected in separate tanks. The virus-containing filtrate was concentrated to a final volume of ~500&#8201;ml using a 100-kDa TFF filter. Polyethylene glycol (PEG 8000) was added to a final concentration of 10% (w/v) and the mixture was incubated for 12-18&#8201;h at 4&#8201;\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00b0C. The VLPs were pelleted by centrifuging for 2&#8201;h at 22&#8201;000&#8201;rpm in an SW41Ti swinging bucket rotor (RCF avg=53&#8201;000 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0097 g). The VLP pellet was resuspended in filtered (100&#8201;kDa) saltern water to a final volume of ~50&#8201;ml. The virus concentrate was loaded onto a cesium chloride density gradient, centrifuged, and the 1.5&#8201;g&#8201;ml&#8722;1 fraction was collected.", 
+    "sample-isolation-and-treatment_sample_isolation_reference": "20147985", 
+    "sample-isolation-and-treatment_sample_size": "60 litres", 
+    "sample-origin_continent": "north_america", 
+    "sample-origin_country": "US", 
+    "sample-origin_latitude": "32.6", 
+    "sample-origin_location": "Chula Vista, CA", 
+    "sample-origin_longitude": "-117.1072", 
+    "sample-origin_salinity": "27-30 ; Percent", 
+    "sample-origin_sampling_date": "2004/07/01", 
+    "sample-origin_sampling_timezone": "UTC", 
+    "sequences_sequences_filtered": "Removed redundant contigs", 
+    "sequencing_sequencing_method": "454", 
+    "water_biomass": "6.69E7 cells/ml", 
+    "water_salinity": "27-30%"
+}

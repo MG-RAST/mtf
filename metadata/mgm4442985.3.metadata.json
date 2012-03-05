@@ -1,0 +1,23 @@
+{
+    "biome-information_envo_lite": "animal-associated habitat", 
+    "host-associated_host_common_name": "eukaryotes", 
+    "host-associated_host_subject_id": "Nannoch", 
+    "host-associated_host_taxid": "43926", 
+    "library-construction---metagenome--_mg_library_construction_protocol": "ClonTech SMART cDNA", 
+    "library-construction---metagenome--_mg_library_type": "cDNA", 
+    "library-construction-16s-rrna-based_library_notes": "Complementary DNA was generated using the ClonTech SMART cDNA construction protocol and ligated into the Lucigen pSMART vector (Diplonema papillatum) or the ClonTech pDNRlib vector (all others). Electrocompetent cells were transformed using the ligation products and plated on LB- kanamycin agar. Clones were grown in 96 well polypropylene 2.0 ml deep well growth blocks containing 1.2 ml superbroth (with 30ug/ml kanamycin) per well and plasmid DNA was prepared using a modified alkaline lysis procedure adapted for automation (GenomicSolutions RevPrep Orbit or Beckman BiomekFX). ~10,000 clones from each library were sequenced bidirectionally with vector primers using Sanger cycle sequencing (Applied Biosystems BigDye Terminator chemistry).", 
+    "project-description_metagenome_name": "Nannoch cDNA ( Nannochloropsis granulata)", 
+    "sample-isolation-and-treatment_biomaterial_treatment": "DNA extraction", 
+    "sample-isolation-and-treatment_sample_isolation_description": "Cultures of microbial eukaryotes for EST sequencing were obtained from ATCC or the Culture Collection of Algae and Protozoa (CCAP; Table S1) and grown in Corning culture flasks according to supplier's recommended protocols. Cultures of Heteromita sp. were kindly provided by Linda Amaral Zettler and subsequently deposited at ATCC (ATCC PRA-74). Cultures were harvested and pooled as needed to obtain ~2x107 cells. Cells were pelleted and mRNA was extracted using the Qiagen Oligotex direct mRNA protocol. The resultant mRNA was quantitated by NanoDrop and/or Agilent Bioanalyzer RNA chip.", 
+    "sample-origin_continent": "north_america", 
+    "sample-origin_country": "US", 
+    "sample-origin_geodetic_system": "wgs_84", 
+    "sample-origin_latitude": "42.85278", 
+    "sample-origin_location": "Amherst, Massachusetts", 
+    "sample-origin_longitude": "-72.5252", 
+    "sample-origin_sampling_timezone": "UTC", 
+    "sequences_sequences_assembled": "Assembled contigs", 
+    "sequences_sequences_filtered": "Paired reads from the same clone were trimmed using custom Perl scripts and assembled based on sequence overlap using phrap", 
+    "sequencing_mg_sequencing_chemistry": "Applied Biosystems BigDye Terminator chemistry", 
+    "sequencing_sequencing_method": "sanger"
+}

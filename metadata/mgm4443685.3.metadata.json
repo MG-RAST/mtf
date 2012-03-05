@@ -1,0 +1,16 @@
+{
+    "biome-information_envo_lite": "marine habitat", 
+    "project-description_metagenome_name": "Organic Lake, Antarctica", 
+    "sample-isolation-and-treatment_sample_isolation_description": "Sampling occured in December 2006. Ocean samples were taken during Voyage 2 of the Aurora Australis; an ice-breaker that supports scientific research programs of the Australian Antarctic Division. Lake samples were taken during field expeditions in the Vestfold Hills neighbouring Davis Research Station.", 
+    "sample-origin_continent": "antarctica", 
+    "sample-origin_country": "AQ", 
+    "sample-origin_depth": "0.15 ; Meter", 
+    "sample-origin_geodetic_system": "wgs_84", 
+    "sample-origin_latitude": "-68.43278", 
+    "sample-origin_location": "Organic Lake", 
+    "sample-origin_longitude": "78.29972", 
+    "sample-origin_sampling_date": "2006/12/24", 
+    "sample-origin_sampling_timezone": "UTC+6", 
+    "sequencing_sequencing_method": "sanger", 
+    "water_misc_param": "filter size = 0.1 - 0.8"
+}

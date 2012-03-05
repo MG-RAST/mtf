@@ -1,0 +1,18 @@
+{
+    "biome-information_envo_lite": "animal-associated habitat", 
+    "project-description_project_name": "Cow Rumen Virome", 
+    "sample-origin_altitude": "223 ; Meter", 
+    "sample-origin_continent": "north_america", 
+    "sample-origin_country": "US", 
+    "sample-origin_depth": "n/a ; Meter", 
+    "sample-origin_latitude": "40", 
+    "sample-origin_location": "Urbana, IL", 
+    "sample-origin_longitude": "-88", 
+    "sample-origin_sampling_date": "2008/05/28", 
+    "sample-origin_sampling_time": "170000", 
+    "sample-origin_sampling_timezone": "UTC-6", 
+    "sample-origin_temperature": "not determined ; Celsius", 
+    "sequencing_mg_sequencing_make": "Roche", 
+    "sequencing_sequencing_center": "DOE Joint Genome Institute", 
+    "sequencing_sequencing_method": "454"
+}
